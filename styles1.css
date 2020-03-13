@@ -6,6 +6,7 @@
 /* commemnt */
 body {
 	background-color: black;
+	color: white;
 }
 
 .banner {
@@ -38,8 +39,4 @@ body {
   grid-column: 3;
   grid-row: 1;
   background-image: url("images/baby2.jpg");
-}
-
-.about {
-	color: white;
 }
