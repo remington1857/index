@@ -39,3 +39,7 @@ body {
   grid-row: 1;
   background-image: url("images/baby2.jpg");
 }
+
+.about {
+	color: white;
+}
