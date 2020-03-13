@@ -42,3 +42,16 @@ body {
   grid-row: 1;
   background-image: url("images/baby2.jpg");
 }
+
+.center {
+  display: block;
+  margin-left: 10px;
+  margin-right: 10px;
+  width: 100%;
+}
+
+.vert {
+	.center {
+  padding: 200px 0;
+}
+}
